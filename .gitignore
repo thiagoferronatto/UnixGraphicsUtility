@@ -1,0 +1,17 @@
+# Binaries
+u2g
+*.exe
+
+# Libraries
+*.a
+*.lib
+
+# CMake temporaries
+*Cache.txt
+*.cmake
+build
+CMakeFiles
+
+# Platform-specifics
+.vscode
+Makefile
